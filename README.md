@@ -67,3 +67,33 @@ Also back in the NY router. Type "do sh ip route" enter. It shows that it can no
 <img src="https://imgur.com/bdag56s.png" height="80%" width="80%" alt="LA router to verify current connections"/>
 <br />
 <br />
+Next try to ping from PC1:  <br/>
+<img src="https://imgur.com/ylgScOK.png" height="80%" width="80%" alt="LA router to verify current connections"/>
+<br />
+<br />
+Click on PC1. Desktop. Then Command Prompt:  <br/>
+<img src="https://imgur.com/YHwyiR5.png" height="80%" width="80%" alt="LA router to verify current connections"/>
+<br />
+<br />
+Type "ping 192.168.30.1" enter. This will be port g0/1 on the LA router. Connection is successful:  <br/>
+<img src="https://imgur.com/SvToyx6.png" height="80%" width="80%" alt="LA router to verify current connections"/>
+<br />
+<br />
+Now type "ping 192.168.30.10" enter. This will ping PC2. Connection is successful:  <br/>
+<img src="https://imgur.com/YpjHDcI.png" height="80%" width="80%" alt="LA router to verify current connections"/>
+<br />
+<br />
+Next try to ping from PC2:  <br/>
+<img src="https://imgur.com/MpDimo8.png" height="80%" width="80%" alt="LA router to verify current connections"/>
+<br />
+<br />
+Click on PC2. Desktop. Then Command Prompt:  <br/>
+<img src="https://imgur.com/5hZ086f.png" height="80%" width="80%" alt="LA router to verify current connections"/>
+<br />
+<br />
+Type "ping 192.168.10.10" enter. This will ping PC1. Connection is successful:  <br/>
+<img src="https://imgur.com/TqF8TlM.png" height="80%" width="80%" alt="LA router to verify current connections"/>
+<br />
+<br />
+End of lab:
+</p>
